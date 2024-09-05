@@ -23,9 +23,9 @@ When it comes to my hobbies, I like reading books, cooking, baking and handcraft
 * 
 
 ### Projects 
-API testing
-Python
-SQL
+* [API testing](#github.com/paulina-m/API-testing)
+* Python
+* SQL
 
 ### Soft skills
 <br /> zzzz 
